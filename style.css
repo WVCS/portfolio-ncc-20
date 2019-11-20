@@ -1,0 +1,118 @@
+body {
+  background-color: #FFE2EA;
+}
+h1 {
+  background-color: pink;
+  padding: 30px;
+  text-align: center;
+  font-size: 400%;
+  color: white;
+  font-family: Comic Sans MS;
+}
+
+
+footer {
+  color: #22709B;
+  font-family: Comic Sans MS;
+  font-size: 120%;
+}
+
+article {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+  color: G;
+  font-size 180%;
+  font-family: Comic Sans MS;
+}
+
+h7 {
+  float: right;
+  padding:0px;
+  width: 100%;
+  heigth: 100%;
+}
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-size: 90%;
+}
+
+body {
+  text-align: center;
+}
+
+
+nav {
+  font-family: calibri;
+  width: 100%; 
+  text-align: center;
+}
+
+p{
+  text-align:center;
+}
+
+img {
+  width: 15%;
+}
+
+h3{
+  color: blue;
+  background-color: transparent;
+  text-align: center;
+  font-size: 100%;
+  font-family: Calibri;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid white;
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
+tr:nth-child(odd) {
+  background-color: pink;
+}
+
+form {
+  text-align: center;
+}
+
+h6 {
+  text-align:center;
+  font-size:230%;
+}
+
+div.gallery {
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 15%;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 140px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
