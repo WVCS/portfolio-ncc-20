@@ -161,6 +161,8 @@ div.text {
 img {
   padding: 2%;
   border-radius: 30%;
+  width: 800px;
+  height: 400px;
 }
 
 p.image {
