@@ -116,3 +116,53 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
+
+ul.nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li.nav {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #946;
+}
+
+div {
+  text-align: center;
+  font-size: 170%;
+}
+
+div1 {
+  text-align: center;
+  font-size: 100%;
+}
+
+img {
+  padding: 2%;
+  border-radius: 30%;
+}
+
+p.image {
+  text-align: center;
+}
